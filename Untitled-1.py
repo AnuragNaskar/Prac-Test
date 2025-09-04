@@ -9,3 +9,4 @@ if flag:
 else:
     print(f"{num} is not a Prime number.")
 #Checked prime number.
+#Changed main to branch.
