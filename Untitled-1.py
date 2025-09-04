@@ -8,4 +8,4 @@ if flag:
     print(f"{num} is a Prime number.")
 else:
     print(f"{num} is not a Prime number.")
-#Checked prime number.
+#DoubleChecked prime number.
